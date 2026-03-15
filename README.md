@@ -87,8 +87,8 @@ Das **ETS-Modell** zeigte insgesamt die stabilsten Prognosen und die geringsten 
 Ein paar wichtige Learnings aus der Analyse:
 
 - Bitcoin weist starke Volatilität und klare Trendphasen auf.
-- Klassische Zeitreihenmodelle können kurzfristige Entwicklungen teilweise abbilden.
-- Für hochvolatile Assets stoßen diese Modelle jedoch schnell an ihre Grenzen.
+- Klassische Zeitreihenmodelle stoßen an ihre Grenzen wenn es darum geht hochvolatile Assets abzubilden.
+
 
 Mit anderen Worten:  
 **Sie funktionieren als Benchmark – aber nicht als vollständige Lösung für Kryptomärkte.**
